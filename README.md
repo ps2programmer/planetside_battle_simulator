@@ -6,7 +6,7 @@ Currently, it's built using Python's Pygame library. This was chosen because I'm
 
 # How To Run
 
-1. Fork the repository
+1. Download the repository (go to the green "Code" button and then click "Download ZIP")
 2. Download the latest version of Python if you don't have it already
 3. Install Pygame using the command "pip install pygame" in your terminal
 4. Run battle_simulator.py
