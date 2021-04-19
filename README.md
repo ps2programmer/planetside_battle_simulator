@@ -10,3 +10,4 @@ Currently, it's built using Python's Pygame library. This was chosen because I'm
 2. Download the latest version of Python if you don't have it already
 3. Install Pygame using the command "pip install pygame" in your terminal
 4. Run battle_simulator.py
+5. Note that there's 2 windows, the pygame window and the tkinter window (tkinter is a library in Python that lets you make basic GUIs). The tkinter window will be hidden behind the pygame window when the pygame window starts up. Just a heads up as the tkinter window contains the controls to create spawn points, capture points, and soldiers, otherwise if you weren't aware it was hidden it might be anti-climactic when a blank map with nothing on it opens up
