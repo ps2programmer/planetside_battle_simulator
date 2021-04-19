@@ -1,5 +1,6 @@
 """Global variables shared across all scripts"""
 from enum import Enum
+from random import random, choice, randint
 
 
 # Pygame
